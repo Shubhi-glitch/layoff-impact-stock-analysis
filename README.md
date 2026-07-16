@@ -72,7 +72,7 @@ An executive dashboard was built in Power BI to summarize the findings visually,
 - Layoff group comparison chart
 - Industry-wise average return breakdown
 
-*(See `dashboard/` folder for PDF export and screenshot.)*
+![Dashboard Screenshot](dashboard.png)
 
 ---
 
